@@ -1,4 +1,5 @@
-### Hi! I'm Iuri Gabriel 👋
+### Hi there, 
+I'm Iuri Gabriel 👋
 
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: Ele/Dele
